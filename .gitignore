@@ -88,7 +88,6 @@ dist/
 #################################
 
 # Dossier Client complet
-client/
 
 # Dossiers de build
 client/dist/
